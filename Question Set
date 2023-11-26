@@ -1,0 +1,35 @@
+General Questions:
+Can you provide an overview of the dataset? What information does it contain?
+How many rows and columns are there in the dataset?
+What is the purpose of each column in the dataset?
+
+Data Exploration Questions:
+What is the range of prices for the Apple iPhone products in the dataset?
+How many different models of iPhones are included in the dataset?
+What is the average discount percentage for all the iPhones?
+
+Product-specific Questions:
+Which iPhone model has the highest number of reviews?
+Can you identify the iPhone model with the highest and lowest sale prices?
+Is there a correlation between the number of ratings and the star rating of the products?
+
+Brand-related Questions:
+How many different brands are present in the dataset?
+What is the average discount percentage for Apple iPhones?
+Can you compare the average star ratings for different iPhone models?
+
+Statistical Analysis:
+What is the overall average star rating for all the iPhones in the dataset?
+Can you calculate the average discount percentage for each iPhone model?
+
+Data Integrity Questions:
+Are there any missing values in the dataset? How would you handle them?
+Is there any unusual or inconsistent data that stands out?
+
+Trends and Patterns:
+Can you identify any trends or patterns in the data, such as popular storage capacities or preferred colors?
+Is there a correlation between the storage capacity of an iPhone and its price?
+
+Market Analysis:
+What insights can you draw about the competitiveness of iPhone prices based on the discount percentages?
+How does the number of ratings and reviews vary across different iPhone models?
